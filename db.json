@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Nodejs meetup",
+      "day": "jun 26 at 3pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Car Service",
+      "day": "jun 29 at 10am",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Project presentation",
+      "day": "july 01 at 11am",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}

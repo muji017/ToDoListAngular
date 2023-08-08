@@ -1,0 +1,5 @@
+<app-add-task (submitForm)="addTask($event)"></app-add-task>
+
+
+<app-task-items *ngFor="let task of tasks" [task]="task" (reminderItemSet)="reminderReset(task)" (deleteItem)="deleteTask(task)" >
+   </app-task-items>
